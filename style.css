@@ -1,0 +1,28 @@
+@media screen and(max-width:600px) {
+    
+}
+body{
+    background-color: black;
+}
+h1{
+    background-image:url(/MOVIE1.JPG);
+    width: 100vw;
+    height: 25vh;
+}
+h2,p{
+    color: blanchedalmond;
+}
+
+#error, #results{
+    display: none;
+}
+#userInput{
+    margin-left: 450px;
+}
+
+div{
+    text-align: center;
+}
+a{
+    color: rgb(209, 5, 5);
+}
