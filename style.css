@@ -5,7 +5,7 @@ body{
     background-color: black;
 }
 h1{
-    background-image:url(/MOVIE1.JPG);
+    background-image:url(MOVIE1.JPG);
     width: 100vw;
     height: 25vh;
 }
